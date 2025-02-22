@@ -1,4 +1,5 @@
-# Análise de PDFs com IA
+Analisando documentos com auxilio de IA
+![Análise de PDFs com IA](piclumen-1731131856590.webp)
 
 Este projeto permite que você faça o upload de um arquivo PDF e gere sumários ou análises de conteúdo utilizando modelos de linguagem avançados, como o GPT-4 ou equivalentes.
 
@@ -60,3 +61,4 @@ pdf_analysis/
 ## Contribuindo
 
 Pull requests são bem-vindos. Para mudanças maiores, abra uma issue primeiro para discutir o que você gostaria de mudar. Fique à vontade para contribuir com melhorias, correções ou novas funcionalidades.
+
