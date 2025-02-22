@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="piclumen-1731131856590.webp" alt="Análise de PDFs com IA" width="100%" />
+  <img src="rep_img.jpg" alt="Análise de PDFs com IA" width="100%" />
 </div>
 
 # Análise de PDFs com IA
@@ -64,4 +64,3 @@ pdf_analysis/
 ## Contribuindo
 
 Pull requests são bem-vindos. Para mudanças maiores, abra uma issue primeiro para discutir o que você gostaria de mudar. Fique à vontade para contribuir com melhorias, correções ou novas funcionalidades.
-
