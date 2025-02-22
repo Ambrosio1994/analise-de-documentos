@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="piclumen-1731131856590.webp" alt="Análise de PDFs com IA" width="100%" />
+</div>
+
 # Análise de PDFs com IA
-![Análise de PDFs com IA](piclumen-1731131856590.webp)
 
 Este projeto permite que você faça o upload de um arquivo PDF e gere sumários ou análises de conteúdo utilizando modelos de linguagem avançados, como o GPT-4 ou equivalentes.
 
